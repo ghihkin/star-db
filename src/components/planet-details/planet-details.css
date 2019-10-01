@@ -1,0 +1,13 @@
+.sub-heade .planet-desc{
+    margin-left: 30px;
+}
+.sub-heade .planet-desc h2{
+    font-size: 18px;
+}
+.sub-heade .planet-desc ul{
+    padding-left: 15px;
+}
+.sub-heade .planet-desc ul li{
+    border-top: 1px solid #afa9a9;
+    padding: 5px 0px;
+}

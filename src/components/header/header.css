@@ -1,0 +1,28 @@
+.header{
+    padding: 15px 30px;
+    display: flex;
+    justify-content: center;
+    background: #333333;
+}
+.header div{
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color:#ccc;
+}
+.header ul{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding-left: 60px;
+}
+.header ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.header ul li:hover{
+    background-color: #444;
+}

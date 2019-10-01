@@ -1,0 +1,30 @@
+.sub-heade{
+    display: flex;
+    justify-content: center;
+    padding: 3.5em;
+    background: #8e8e8e;
+}
+.sub-heade .planet-image img{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 10px;
+}
+.sub-heade .planet-desc{
+    margin-left: 30px;
+}
+.sub-heade .planet-desc h2{
+    font-size: 18px;
+}
+.sub-heade .planet-desc ul{
+    padding-left: 15px;
+}
+.sub-heade .planet-desc ul li{
+    border-top: 1px solid #afa9a9;
+    padding: 5px 0px;
+}
+.centred_box{
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center
+}

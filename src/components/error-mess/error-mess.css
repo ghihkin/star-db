@@ -1,0 +1,8 @@
+.error_mess{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffe000;
+    font-size: 18px;
+    line-height: 28px;
+}
